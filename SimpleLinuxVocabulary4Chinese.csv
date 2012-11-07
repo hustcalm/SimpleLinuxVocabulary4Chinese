@@ -1,0 +1,116 @@
+Account Name,帐户名称
+APM,高级电源管理 Advanced Power Management
+Append Symbol,附加符号
+Archive,归档文件
+Background Process,后台进程
+Binary,二进制文件
+Boot Disk,引导盘
+Bot,机器人
+CGI,公共网关接口 Common Gateway Interface
+CHS,柱面／磁头／扇区 Cylinder/Head/Sector
+Client,客户机
+CLU,命令行实用程序 Command Line Utility
+Cluster,群集
+COLA,因特网新闻组 comp.os.linux.announce 的简称
+Command Line Interface,命令行界面
+Command Prompt,命令提示符
+Compile,编译
+Compiled Language,编译型语言
+Compiler,编译器
+Console Application,控制台应用程序
+Daemon,守护程序
+Desktop,桌面
+Device Driver,设备驱动程序
+Distribution,分发版
+File System,文件系统
+Filter,过滤器
+Foreground Process,前台进程
+FTP,文件传送协议 File Transfer Protocol
+GCC,GNU C 编译器 GNU C Compiler
+GIMP,GNU 图像操作程序 GNU Image Manipulation Program
+GNOME,GNU 网络对象模型环境 GNU Network Object Model Environment
+GNU,GNU 不是 Unix GNU is Not Unix
+GPL,GNU 通用公共许可证 GNU General Public License
+Grep,全局正则表达式及打印 Global Regular Expression and Print
+Gtk/Gtk+,GIMP 工具箱 GIMP ToolKit
+GUI,图形用户界面 Graphical User Interface
+HTML,超文本标记语言 Hyper Text Markup Language
+HTTP,超文本传输协议 Hyper Text Transport Protocol
+Interpreted Language,解释型语言
+JFS,日志文件系统 Journaled/Journaling File System
+Journaling,日志记录
+JVM,Java 虚拟机 Java Virtual Machine
+KDE,K 桌面环境 K Desktop Environment
+Kernel,内核
+LGPL,库 GPL Library GPL
+Log,记录日志或日志
+Macro,宏
+MBR,主引导记录 Master Boot Record
+MIME,多用途因特网邮件交换 Multipurpose Internet Mail Exchange
+Mount,挂装
+Multitasking,多任务
+Multithreading,多线程
+NFS,网络文件系统 Network File System
+Newbie,新手
+Object-Oriented,面向对象
+Open Source,开放源码
+OSS,开放声音系统 Open Sound System
+OSS,开放源码软件 Open Source Software
+Owner,所有者
+P-code,伪代码 Pseudo-code
+PAM,可插入的认证模块 Pluggable Authentication Modules
+Panel,面板
+Partition,分区
+PDF,可移植文档格式 Portable Document Format
+Perl,实用摘录与报告语言 Practical Extraction and Report Language
+Permission,权限
+PGP,高质量保密程序 Pretty Good Privacy
+Piping Symbol,管道符号
+Port,移植/Ported/Porting
+Portable,可移植
+POSIX,UNIX 可移植操作系统接口 Portable Operating System Interface for uniX
+Process,进程
+Public Domain,公共域
+Public Key Encryption,公钥加密
+Queue,队列
+RAID,独立／廉价磁盘／设备冗余阵列 Redundant Array of Independent/Inexpensive Disks/Devices
+RCS,修订控制系统 Revision Control System
+Redirection Symbol,重定向符号
+RFS,远程文件共享 Remote File Sharing
+RPM,RPM 软件包管理器 RPM Package Manager
+Script,脚本
+Session,会话
+Shareware,共享软件
+SHTTP,安全超文本传输协议 Secure Hyper Text Transport Protocol
+Source Code,源代码
+Spool,假脱机
+Structured Query Language,SQL,结构化查询语言
+Steganography,隐写术
+String,字符串
+Superuser,超级用户
+Swap,交换
+Swap Space,交换空间
+Symbolic link,符号链接
+Sync,同步
+Syslog,系统日志
+Tag,标记
+Tar,磁带归档 Tape ARchive
+Tarball,Tar 包
+Text Editor,文本编辑器
+Text Formatter,文本格式化程序
+TFTP,小型文件传送协议 Trivial File Transfer Protocol
+Thread,线程
+Time-sharing,分时
+Virtual Desktop,虚拟桌面
+Virtual Machine,虚拟机
+Virtual Memory,虚拟内存
+VRML,虚拟现实建模语言 Virtual Reality Modeling Language
+Widget,窗口构件
+Window Manager,窗口管理器
+Working Directory,工作目录
+Workspace,工作区
+Wrapper,封装器
+XDM,X 显示管理器 X Display Manager
+XHTML,可扩展超文本标记语言 extensible Hyper Text Markup Language
+XML,可扩展标记语言 eXtensible Markup Language
+Zone,区域
