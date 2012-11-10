@@ -30,6 +30,7 @@ GCC,GNU C 编译器 GNU C Compiler
 GIMP,GNU 图像操作程序 GNU Image Manipulation Program
 GNOME,GNU 网络对象模型环境 GNU Network Object Model Environment
 GNU,GNU 不是 Unix GNU is Not Unix
+Goals,目标
 GPL,GNU 通用公共许可证 GNU General Public License
 Grep,全局正则表达式及打印 Global Regular Expression and Print
 Gtk/Gtk+,GIMP 工具箱 GIMP ToolKit
@@ -69,6 +70,7 @@ Piping Symbol,管道符号
 Port,移植/Ported/Porting
 Portable,可移植
 POSIX,UNIX 可移植操作系统接口 Portable Operating System Interface for uniX
+Prerequisites,预备知识
 Process,进程
 Public Domain,公共域
 Public Key Encryption,公钥加密
