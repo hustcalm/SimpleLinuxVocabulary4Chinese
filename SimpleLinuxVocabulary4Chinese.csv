@@ -26,12 +26,9 @@ Dash,破折号
 Desktop,桌面
 Device Driver,设备驱动程序
 Distribution,分发版
-<<<<<<< HEAD
 Double quotes,双引号
 Escape,转义
-=======
 EFI,可扩展固件接口 Extensible Firmware Interface
->>>>>>> 6aa23f8f19627faca784950ab155eb4136c0c7f7
 File System,文件系统
 Filter,过滤器
 Fireware,固件
@@ -74,6 +71,7 @@ Open Source,开放源码
 OSS,开放声音系统 Open Sound System
 OSS,开放源码软件 Open Source Software
 Owner,所有者
+Overview,概述
 P-code,伪代码 Pseudo-code
 PAM,可插入的认证模块 Pluggable Authentication Modules
 Panel,面板
