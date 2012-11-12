@@ -26,10 +26,15 @@ Dash,破折号
 Desktop,桌面
 Device Driver,设备驱动程序
 Distribution,分发版
+<<<<<<< HEAD
 Double quotes,双引号
 Escape,转义
+=======
+EFI,可扩展固件接口 Extensible Firmware Interface
+>>>>>>> 6aa23f8f19627faca784950ab155eb4136c0c7f7
 File System,文件系统
 Filter,过滤器
+Fireware,固件
 Foreground Process,前台进程
 Free Software Foundation,自由软件基金会
 FTP,文件传送协议 File Transfer Protocol
@@ -118,6 +123,7 @@ Text Formatter,文本格式化程序
 TFTP,小型文件传送协议 Trivial File Transfer Protocol
 Thread,线程
 Time-sharing,分时
+USB,通用串行总线 universal serial bus
 Virtual Desktop,虚拟桌面
 Virtual Machine,虚拟机
 Virtual Memory,虚拟内存
