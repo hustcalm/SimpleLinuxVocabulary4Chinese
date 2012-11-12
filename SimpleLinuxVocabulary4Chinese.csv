@@ -22,6 +22,7 @@ Daemon,守护程序
 Desktop,桌面
 Device Driver,设备驱动程序
 Distribution,分发版
+EFI,可扩展固件接口 Extensible Firmware Interface
 File System,文件系统
 Filter,过滤器
 Fireware,固件
