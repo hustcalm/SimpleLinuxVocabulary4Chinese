@@ -2,7 +2,9 @@ Account Name,帐户名称
 APM,高级电源管理 Advanced Power Management
 Append Symbol,附加符号
 Archive,归档文件
+Argument,参数
 Background Process,后台进程
+Backslash,反斜杠
 Binary,二进制文件
 Boot Disk,引导盘
 Bot,机器人
@@ -13,18 +15,23 @@ CLU,命令行实用程序 Command Line Utility
 Cluster,群集
 COLA,因特网新闻组 comp.os.linux.announce 的简称
 Command Line Interface,命令行界面
+Command-line user interface,命令行用户界面
 Command Prompt,命令提示符
 Compile,编译
 Compiled Language,编译型语言
 Compiler,编译器
 Console Application,控制台应用程序
 Daemon,守护程序
+Dash,破折号
 Desktop,桌面
 Device Driver,设备驱动程序
 Distribution,分发版
+Double quotes,双引号
+Escape,转义
 File System,文件系统
 Filter,过滤器
 Foreground Process,前台进程
+Free Software Foundation,自由软件基金会
 FTP,文件传送协议 File Transfer Protocol
 GCC,GNU C 编译器 GNU C Compiler
 GIMP,GNU 图像操作程序 GNU Image Manipulation Program
@@ -35,9 +42,11 @@ GPL,GNU 通用公共许可证 GNU General Public License
 Grep,全局正则表达式及打印 Global Regular Expression and Print
 Gtk/Gtk+,GIMP 工具箱 GIMP ToolKit
 GUI,图形用户界面 Graphical User Interface
+Host name,主机名
 HTML,超文本标记语言 Hyper Text Markup Language
 HTTP,超文本传输协议 Hyper Text Transport Protocol
 Interpreted Language,解释型语言
+Internal commands,内置命令
 JFS,日志文件系统 Journaled/Journaling File System
 Journaling,日志记录
 JVM,Java 虚拟机 Java Virtual Machine
@@ -45,6 +54,8 @@ KDE,K 桌面环境 K Desktop Environment
 Kernel,内核
 LGPL,库 GPL Library GPL
 Log,记录日志或日志
+Log off,登出 注销
+Long option,长选项
 Macro,宏
 MBR,主引导记录 Master Boot Record
 MIME,多用途因特网邮件交换 Multipurpose Internet Mail Exchange
@@ -72,6 +83,7 @@ Portable,可移植
 POSIX,UNIX 可移植操作系统接口 Portable Operating System Interface for uniX
 Prerequisites,预备知识
 Process,进程
+Prompt,提示
 Public Domain,公共域
 Public Key Encryption,公钥加密
 Queue,队列
@@ -83,7 +95,9 @@ RPM,RPM 软件包管理器 RPM Package Manager
 Script,脚本
 Session,会话
 Shareware,共享软件
+Shell script,shell脚本
 SHTTP,安全超文本传输协议 Secure Hyper Text Transport Protocol
+single quotes,单引号
 Source Code,源代码
 Spool,假脱机
 Structured Query Language,SQL,结构化查询语言
@@ -98,6 +112,7 @@ Syslog,系统日志
 Tag,标记
 Tar,磁带归档 Tape ARchive
 Tarball,Tar 包
+Terminal,终端
 Text Editor,文本编辑器
 Text Formatter,文本格式化程序
 TFTP,小型文件传送协议 Trivial File Transfer Protocol
