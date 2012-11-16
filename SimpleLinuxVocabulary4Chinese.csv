@@ -31,6 +31,7 @@ Double quotes,双引号
 Escape,转义
 EFI,可扩展固件接口 Extensible Firmware Interface
 File System,文件系统
+FHS,文件层次结构标准 Filesystem Hierarchy Standard
 Filter,过滤器
 Fireware,固件
 Foreground Process,前台进程
